@@ -148,7 +148,6 @@ Dynamic Measure 2            — Secondary field parameter
 | Power BI Desktop | Dashboard development |
 | DAX | Measures, calculated columns, dynamic titles |
 | Power Query (M) | Data transformation & loading |
-| JSON Theme File | Custom Uber Night Ride dark theme |
 
 ---
 
@@ -159,7 +158,7 @@ uber-trip-analysis/
 │
 ├── 📊 Uber Taxi Power BI Analysis.pbix   ← Main Power BI file
 ├── 📄 README.md                           ← This file
-├── 🎨 UberNightRide_Theme.json            ← Custom dark theme
+├── 🎨 Dataset             ← All CSV Files
 │
 └── 📸 screenshots/
     ├── overview.png                       ← Overview page screenshot
