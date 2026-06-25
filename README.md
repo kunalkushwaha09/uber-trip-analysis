@@ -15,21 +15,21 @@
 ### Overview Analysis
 > KPI cards · Payment breakdown · Vehicle type analysis · Location heatmap
 
-![Overview Dashboard](screenshots/Screenshot 2026-06-26 002623.png)
+![Overview Dashboard](screenshots/overview1.png)
 
 ---
 
 ### Time Analysis
 > Hourly trip trends · Day-of-week patterns · Day × Hour heatmap matrix
 
-![Time Analysis Dashboard](screenshots/Screenshot 2026-06-26 003029.png)
+![Time Analysis Dashboard](screenshots/time_analysis.png)
 
 ---
 
 ### Details
 > Full trip-level table with filters by vehicle, payment type, and date range
 
-![Details Dashboard](screenshots/Screenshot 2026-06-26 003058.png)
+![Details Dashboard](screenshots/details.png)
 
 ---
 
@@ -172,9 +172,8 @@ uber-trip-analysis/
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@KunalKushwaha](https://github.com/kunalkushwaha09)
-- LinkedIn: [linkedin.com/in/Kunal Kushwaha]([https://linkedin.com/in/your_profile](https://www.linkedin.com/in/kunal-kushwaha-94434821a/))
-
+- GitHub: [@Kunal Kushwaha](https://github.com/kunalkushwaha09)
+- LinkedIn: [linkedin.com/in/KunalKushwaha](https://www.linkedin.com/in/kunal-kushwaha-94434821a/)
 ---
 
 <div align="center">
