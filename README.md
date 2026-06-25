@@ -15,21 +15,21 @@
 ### Overview Analysis
 > KPI cards · Payment breakdown · Vehicle type analysis · Location heatmap
 
-![Overview Dashboard](screenshots/overview.png)
+![Overview Dashboard](screenshots/Screenshot 2026-06-26 002623.png)
 
 ---
 
 ### Time Analysis
 > Hourly trip trends · Day-of-week patterns · Day × Hour heatmap matrix
 
-![Time Analysis Dashboard](screenshots/time_analysis.png)
+![Time Analysis Dashboard](screenshots/Screenshot 2026-06-26 003029.png)
 
 ---
 
 ### Details
 > Full trip-level table with filters by vehicle, payment type, and date range
 
-![Details Dashboard](screenshots/details.png)
+![Details Dashboard](screenshots/Screenshot 2026-06-26 003058.png)
 
 ---
 
